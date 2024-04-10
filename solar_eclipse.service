@@ -1,0 +1,13 @@
+[Unit]
+Description = Collect Temperature and Humidity Information and Display LCD
+After = network.target
+
+[Service]
+ExecStart=/usr/bin/python3/home/pi/Solar/Main.py
+WorkingDirectory=/usr/bin/python3/home/pi/Solar
+StandardOutput=inherit
+StandardError=inherit
+Restart=always
+
+[install]
+WantedBy=multi-user.target
