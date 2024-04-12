@@ -1,6 +1,7 @@
+Repo Containing Information Collected about Solar Eclipse 
+
 <img width="682" alt="Screenshot 2024-04-11 at 11 04 58 PM" src="https://github.com/jesusugarte10/Solar/assets/19676534/e2f3af74-f301-4101-8a24-0768d0af58cd">
 
-Repo Containing Information Collected about Solar Eclipse 
 
 April 8th, 2024.
 Avon Lake, Ohio
